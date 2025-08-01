@@ -1,6 +1,6 @@
 # Sliding Puzzle Solver – COSC 3P71 Assignment 1
 
-This project implements a solver for the classic **sliding numbers puzzle** (8-puzzle and 15-puzzle) using AI search strategies. It was developed as part of the Artificial Intelligence course (COSC 3P71) at Brock University.
+This project implements a solver for the classic **sliding numbers puzzle** (8-puzzle and 15-puzzle) using AI search strategies.
 
 ## 🧠 Description
 
@@ -67,7 +67,6 @@ See `WriteUp.pdf` for:
 ## 👤 Author
 
 Kabir Sethi  
-Brock University
 
 ## 📄 License
 
