@@ -67,6 +67,8 @@ See `WriteUp.pdf` for:
 ## 👤 Author
 
 Kabir Sethi  
+Bachelor of Computer Science and Business
+Passionate about clean code, problem-solving, and building cool tools.
 
 ## 📄 License
 
