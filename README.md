@@ -1,4 +1,4 @@
-# Sliding Puzzle Solver – COSC 3P71 Assignment 1
+# Sliding Puzzle Solver
 
 This project implements a solver for the classic **sliding numbers puzzle** (8-puzzle and 15-puzzle) using AI search strategies.
 
